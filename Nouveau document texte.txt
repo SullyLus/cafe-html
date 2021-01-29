@@ -1,0 +1,12 @@
+De 300px à 505 px sur le projet MASTER CAFE
+
+
+
+Header :
+h1 et barre de navigation centrée au milieu
+
+
+
+section 1: leger padding à gauche et à droite pour ne pas coller contre bord de l'écran
+section 2: les 2 div sont envoyée l'une en dessous de l'autre
+section 3: leger padding à gauche et à droite pour ne pas coller contre bord de l'écran

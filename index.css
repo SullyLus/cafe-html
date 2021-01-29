@@ -53,7 +53,7 @@ header nav ul li a{
 }
 h2{
     color: rgb(255, 255, 255);
-    padding-top: 2rem;
+    padding-top: 5rem;
     font-size: 3.5rem;
     padding-left: rem;
     text-align: center;
@@ -221,9 +221,13 @@ footer p{
     
 }
 .katre{
-    border-radius: 45%;
+    border-radius: 100%;
     color: white;
-    background-color: fuchsia
+    background-color: fuchsia;
+    display: inline-block;
+    padding: 0.2rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
 }
 .adresss{
     font-size: 1.5rem;
